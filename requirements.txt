@@ -1,0 +1,5 @@
+# Geminiの分類部分を仮想環境に導入する。
+# ROS 2のrclpy/geometry_msgs/nav_msgsは講座環境のものを使用する。
+# 構築済み環境の使用を前提とし、今回は導入済み版の再取得・固定はしていない。
+google-genai
+pydantic

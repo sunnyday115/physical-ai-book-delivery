@@ -1,0 +1,21 @@
+{
+  "frame_id": "beginner_robot/odom",
+  "destinations": {
+    "home": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "table": {
+      "x": 2.4,
+      "y": 0.0
+    },
+    "sofa": {
+      "x": 0.0,
+      "y": 2.4
+    },
+    "bed": {
+      "x": 0.0,
+      "y": -2.4
+    }
+  }
+}
